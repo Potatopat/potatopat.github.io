@@ -1,0 +1,67 @@
+.name h3 {
+	text-align: center;
+	padding-top: 20px;
+}
+#floodlight .frame {
+	background-color: #b6bec5;
+}
+#floodlight .frame img {
+	padding-top: 19.5%;
+	padding-bottom: 19.5%;
+}
+#iit .frame {
+	background-color: #FFFFFF;
+}
+#iit .frame img {
+	padding-top: 19%;
+	padding-bottom: 19%
+}
+#hdj .frame {
+	background-color: #291202;
+}
+#hdj .frame img {
+	height: 95%;
+	width: auto;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+	padding-left: 22%;
+	padding-right: 22%;
+}
+#personal .frame img {
+	height: 90%;
+	width: auto;
+	padding-top: 2.6%;
+	padding-bottom: 2.6%;
+	padding-left: 24%;
+	padding-right: 24%;
+}
+
+#portfolio a {
+	color: black;
+	font-size: 30px;
+}
+
+.frame img {
+	width: 84.541062801932%;
+	height: auto;
+	margin: auto;
+	padding-left: 7.729468599%;
+	padding-right: 7.729468599%;
+}
+
+
+#portfolio > div {
+	float: left;
+	/*width: 310.5px;
+	height: 219.75px;*/
+	/*width: 25.85333%;*/
+	width: 25%;
+	height: 22.5%;
+	margin-top: 50px;
+	margin-bottom: 85px;
+	/*margin-right: 135px;*/
+	margin-right: 12%;
+}
+#portfolio > div:nth-child(3n+0) {
+	margin-right: 0;
+}
